@@ -37,14 +37,14 @@ Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 
 
 </div><br>
 </div>
-
+---
 
 ## 📊 GitHub 활동 통계
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jsumin07&show_icons=true&theme=default" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsumin07&layout=compact&theme=default" height="180"/>
-  </p>
+</p>
   
 
 
