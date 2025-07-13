@@ -3,8 +3,8 @@
 
 ## 📌 소개 (Introduction)
 
-📘 클라우드 엔지니어링 수업에서 수행한 실습 중심 프로젝트를 정리한 저장소입니다.
-Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 데이터베이스 설계 및 연동을 실습했습니다.
+📘 클라우드 엔지니어링 수업에서 수행한 실습 중심 프로젝트를 정리한 저장소입니다. <br>
+Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 데이터베이스 설계 및 연동을 <br> 실습했습니다.
 
 ---
 
@@ -37,6 +37,7 @@ Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 
 
 </div><br>
 </div>
+
 ---
 
 ## 📊 GitHub 활동 통계
@@ -46,7 +47,7 @@ Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsumin07&layout=compact&theme=default" height="180"/>
 </p>
   
-
+---
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
