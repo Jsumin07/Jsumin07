@@ -46,16 +46,6 @@ Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jsumin07&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsumin07&layout=compact&theme=default" height="180"/>
 </p>
   
 ---
-
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suminnn)](https://github.com/suminnn/velog-readme-stats)
-</div><br>
