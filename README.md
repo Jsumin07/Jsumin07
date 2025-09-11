@@ -8,13 +8,17 @@ Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 
 
 ---
 
-## 🛠️ 기술 스택 (Tech Stack)
-
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">  
+        <img src="https://img.shields.io/badge/Spring6-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    </div>
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -27,14 +31,12 @@ Java 기반의 백엔드 로직 구현과 함께, MySQL 및 Oracle을 활용한 
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-    </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </div>
 </div><br>
 </div>
 
